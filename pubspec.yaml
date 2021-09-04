@@ -1,8 +1,7 @@
 name: sort_flutter
 description: A new flutter plugin project.
 version: 0.0.1
-author:
-homepage:
+homepage: https://github.com/HieuNT1998/sort_flutter
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
